@@ -15,56 +15,56 @@
       "name": "Platform Tests of milk (COB, MBR Test, Alcohol Test, Sediment Test)",
       "short-name": "platform-tests-milk",
       "repo": "https://github.com/virtual-labs/exp-platform-tests-milk-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of Fat content in Milk and Milk Products",
       "short-name": "fat-content-milk",
       "repo": "https://github.com/virtual-labs/exp-fat-content-milk-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of SNF Content in Milk",
       "short-name": "snf-content-milk",
       "repo": "https://github.com/virtual-labs/exp-snf-content-milk-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of Titratable Acidity in Milk",
       "short-name": "titratable-acidity-milk",
       "repo": "https://github.com/virtual-labs/exp-titratable-acidity-milk-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of Overrun in Icecream",
       "short-name": "overrun-icecream",
       "repo": "https://github.com/virtual-labs/exp-overrun-in-icecream-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Quality Testing of Butter",
       "short-name": "testing-of-butter",
       "repo": "https://github.com/virtual-labs/exp-testing-of-butter-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Quality Testing of Butter oil / Ghee",
       "short-name": "testing-of-butter-oil",
       "repo": "https://github.com/virtual-labs/exp-testing-of-butter-oil-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Analysis of Adulteration in Milk and Milk products",
       "short-name": "adulteration-milk",
       "repo": "https://github.com/virtual-labs/exp-adulteration-in-milk-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
